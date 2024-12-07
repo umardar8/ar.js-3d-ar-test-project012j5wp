@@ -1,1 +1,0 @@
-# ar.js-3d-ar-test-project012j5wp
